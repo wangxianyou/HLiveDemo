@@ -14,5 +14,6 @@ public class Test extends Activity{
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Log.e("mmm", "onCreate: ");
+        Log.e("mmm", "onCreate:11 ");
     }
 }
